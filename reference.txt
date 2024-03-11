@@ -1,0 +1,6 @@
+
+#react-jsonschema-form ==> rjsf
+https://github.com/rjsf-team/react-jsonschema-form/
+
+#json editor
+https://github.com/CarlosNZ/json-edit-react?tab=readme-ov-file#installation
